@@ -23,6 +23,10 @@ An AI chatbot built using Python and LLM APIs to provide conversational response
 2. Install the required Python packages.
 3. Configure your API credentials using environment variables.
 4. Run the Python application.
+   
+## Purpose
+
+This project was developed to explore AI-powered conversational systems, API integration, and AI-based conversational interaction.
 
 ## Project Structure
 
@@ -30,6 +34,4 @@ An AI chatbot built using Python and LLM APIs to provide conversational response
 Ai-Chatbot/
 ├── llama.py
 └── README.md
-## Purpose
 
-This project was developed to explore AI-powered conversational systems, API integration, and AI-based conversational interaction.
