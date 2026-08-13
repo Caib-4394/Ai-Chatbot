@@ -30,3 +30,6 @@ An AI chatbot built using Python and LLM APIs to provide conversational response
 Ai-Chatbot/
 ├── llama.py
 └── README.md
+## Purpose
+
+This project was developed to explore AI-powered conversational systems, API integration, and AI-based conversational interaction.
